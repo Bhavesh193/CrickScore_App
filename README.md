@@ -42,8 +42,15 @@ npm run dev
 Now open your browser and go to:
 👉 http://localhost:3000
 
-📸 Screenshots
-1[image](./public/Home.png)
-1[image](./public/playersInfo.png)
-1[image](./public/series.png)
-1[image](./public/series2.png)
+## 📸 Screenshots
+
+### 🏠 Home Page
+![image](./public/Home.png)
+
+### 👥 Player List
+![image](./public/playersInfo.png)
+
+### 🏆 Series Scores
+![image](./public/series.png)
+![image](./public/series2.png)
+
