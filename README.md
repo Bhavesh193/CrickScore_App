@@ -6,19 +6,19 @@ CrickScore App is a responsive and dynamic **Cricket Dashboard** built using **R
 
 ## 🚀 Features
 
-- 🔍 **Search Players** by name, country, and position  
-- 📊 **Filter Players** by dropdown options  
-- 🏆 **Series Scores View** with player-wise stats  
-- 🌐 Fully **responsive layout** for mobile and desktop  
+- 🔍 **Search Players** by name, country, and position
+- 📊 **Filter Players** by dropdown options
+- 🏆 **Series Scores View** with player-wise stats
+- 🌐 Fully **responsive layout** for mobile and desktop
 - ⚡ Fast and clean UI built with **Tailwind CSS**
 
 ---
 
 ## 🛠️ Tech Stack
 
-- React.js  
-- Tailwind CSS  
-- React Router DOM  
+- React.js
+- Tailwind CSS
+- React Router DOM
 
 ---
 
@@ -26,22 +26,24 @@ CrickScore App is a responsive and dynamic **Cricket Dashboard** built using **R
 
 ![image](https://github.com/user-attachments/assets/4390a0b4-961a-4a2c-9072-fe6eb57e0413)
 
-
-
 ---
 
 ## 📦 Installation
 
 1. **Clone the repository**
+
 ```bash
 git clone https://github.com/Bhavesh193/CrickScore_App.git
 cd CrickScore_App
 npm install
-npm start
+npm run dev
+```
+
 Now open your browser and go to:
 👉 http://localhost:3000
 
-```
-
 📸 Screenshots
-(Add screenshots of your homepage, players list, and series score page here)
+1[image](./public/Home.png)
+1[image](./public/playersInfo.png)
+1[image](./public/series.png)
+1[image](./public/series2.png)
