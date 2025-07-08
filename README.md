@@ -25,3 +25,23 @@ CrickScore App is a responsive and dynamic **Cricket Dashboard** built using **R
 ## 📁 Project Structure
 
 ![image](https://github.com/user-attachments/assets/4390a0b4-961a-4a2c-9072-fe6eb57e0413)
+
+
+
+---
+
+## 📦 Installation
+
+1. **Clone the repository**
+```bash
+git clone https://github.com/Bhavesh193/CrickScore_App.git
+cd CrickScore_App
+npm install
+npm start
+Now open your browser and go to:
+👉 http://localhost:3000
+
+```
+
+📸 Screenshots
+(Add screenshots of your homepage, players list, and series score page here)
