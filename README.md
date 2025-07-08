@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # 🏏 CrickScore App
 
 CrickScore App is a responsive and dynamic **Cricket Dashboard** built using **React.js** and **Tailwind CSS**, inspired by Cricbuzz. It allows users to browse players, view match series, and filter stats with ease.
